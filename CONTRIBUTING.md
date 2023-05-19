@@ -1,8 +1,12 @@
+Please consider signing [the neveragain.tech pledge](http://neveragain.tech/)
+
+## Contributing
+
 Any change to behavior (including bugfixes) must come with a test.
 
 Patches that fail tests or reduce performance will be rejected.
 
-```sh
+```
 # to run tests
 npm test
 
